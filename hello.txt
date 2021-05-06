@@ -13,6 +13,7 @@ hello git!!!!
 hello git!!!!
 hello git!!!!
 hello git!!!! find some bugs
+hello git!!!! fix bugs in master
 hello git!!!!
 
 
